@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-webapp-by-hwuong",
+  "version": "1.0.0",
+  "description": "newbie new app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huongttl1507/nodejs-webapp-by-hwuong.git"
+  },
+  "keywords": [
+    "hihi"
+  ],
+  "author": "HuongTTL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huongttl1507/nodejs-webapp-by-hwuong/issues"
+  },
+  "homepage": "https://github.com/huongttl1507/nodejs-webapp-by-hwuong#readme"
+}
