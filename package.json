@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/huongttl1507/nodejs-webapp-by-hwuong/issues"
   },
-  "homepage": "https://github.com/huongttl1507/nodejs-webapp-by-hwuong#readme"
+  "homepage": "https://github.com/huongttl1507/nodejs-webapp-by-hwuong#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
 }
